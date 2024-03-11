@@ -4,6 +4,14 @@
 
 **Cook App** is the ultimate solution for those moments when you return home famished after a long day's work, only to realize you forgot to swing by the grocery store for your weekly haul. As you stand in front of your open fridge, contemplating dinner options with the limited ingredients on hand, Cook App swoops in to save the day. This project was developed as part of a hands-on session during the React Native in Practice event (Rocketseat), leveraging Expo for streamlined cross-platform development.
 
+## Credits
+
+This project was developed based on the knowledge acquired through courses and educational materials provided by [rocketseat](https://www.rocketseat.com.br). Rockseat offers a wide range of high-quality courses and content for developers in various areas, including design, programming, and app development.
+
+We would like to thank the Rockseat team for providing valuable educational resources that contributed to the development of this project.
+
+For more information about the courses and materials offered by Rockseat, please visit the official website at [rocketseat](https://www.rocketseat.com.br).
+
 ## Technology
 
 The following are the key technologies and tools used in the development of this app:
