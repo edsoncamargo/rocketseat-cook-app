@@ -6,11 +6,11 @@
 
 ## Credits
 
-This project was developed based on the knowledge acquired through courses and educational materials provided by [rocketseat](www.rocketseat.com.br). Rockseat offers a wide range of high-quality courses and content for developers in various areas, including design, programming, and app development.
+This project was developed based on the knowledge acquired through courses and educational materials provided by [rocketseat](https://www.rocketseat.com.br). Rockseat offers a wide range of high-quality courses and content for developers in various areas, including design, programming, and app development.
 
 We would like to thank the Rockseat team for providing valuable educational resources that contributed to the development of this project.
 
-For more information about the courses and materials offered by Rockseat, please visit the official website at [rocketseat](www.rocketseat.com.br).
+For more information about the courses and materials offered by Rockseat, please visit the official website at [rocketseat](https://www.rocketseat.com.br).
 
 ## Technology
 
