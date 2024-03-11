@@ -1,8 +1,8 @@
-# Cook App
+# Cook
 
-![Cook App Logo](./assets/images/icon.png)
+![Cook Logo](./assets/images/icon.png)
 
-**Cook App** is the ultimate solution for those moments when you return home famished after a long day's work, only to realize you forgot to swing by the grocery store for your weekly haul. As you stand in front of your open fridge, contemplating dinner options with the limited ingredients on hand, Cook App swoops in to save the day. This project was developed as part of a hands-on session during the React Native in Practice event (Rocketseat), leveraging Expo for streamlined cross-platform development.
+**Cook** is the ultimate solution for those moments when you return home famished after a long day's work, only to realize you forgot to swing by the grocery store for your weekly haul. As you stand in front of your open fridge, contemplating dinner options with the limited ingredients on hand, Cook App swoops in to save the day. This project was developed as part of a hands-on session during the React Native in Practice event (Rocketseat), leveraging Expo for streamlined cross-platform development.
 
 ## Credits
 
@@ -24,7 +24,7 @@ The following are the key technologies and tools used in the development of this
 
 ## How It Works
 
-**Cook App** is innovative app revolutionizes the way you explore and create delicious dishes. With Cook App, you have access to a diverse range of ingredients, allowing you to mix and match to your heart's content. Simply select multiple ingredients, and watch as the app generates a variety of possible dishes based on your chosen combinations.
+**Cook** is innovative app revolutionizes the way you explore and create delicious dishes. With Cook App, you have access to a diverse range of ingredients, allowing you to mix and match to your heart's content. Simply select multiple ingredients, and watch as the app generates a variety of possible dishes based on your chosen combinations.
 
 ### Home
 
