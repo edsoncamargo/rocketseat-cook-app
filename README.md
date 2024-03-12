@@ -12,7 +12,7 @@ We would like to thank the Rockseat team for providing valuable educational reso
 
 For more information about the courses and materials offered by Rockseat, please visit the official website at [rocketseat](https://www.rocketseat.com.br).
 
-🎨 Figma do projeto: https://www.figma.com/community/file/1346604268107725445
+🎨 [Figma do projeto](https://www.figma.com/community/file/1346604268107725445)
 
 ## Technology
 
