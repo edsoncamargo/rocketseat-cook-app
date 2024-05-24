@@ -62,8 +62,8 @@ To run the app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/edsoncamargo/nlw-cook-app.git
-   cd your-path/nlw-cook-app
+   git clone https://github.com/edsoncamargo/rocketseat.git
+   cd your-path/rocketseat
    ```
 
 2. Install the dependencies:
